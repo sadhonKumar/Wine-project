@@ -1,0 +1,73 @@
+
+.card{
+    box-shadow: 6px 6px 10px black;
+}
+.navbar-expand-lg.custom-bg{
+    background-color: rgb(104, 199, 183);
+
+}
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+    margin-right: 20px;
+    font-weight: 700;
+}
+.service{
+    background-color: rgb(104, 199, 183);
+    padding-bottom: 120px !important;
+}
+.blog{
+    background-color: #e0e5ea;
+    padding-bottom: 120px !important;
+
+}
+.price{
+        background-color: rgb(104, 199, 183);
+        padding-bottom: 120px !important;
+    }
+    .about{
+        background-color: #e0e5ea;
+        padding-bottom: 120px !important;
+    
+    }
+    .contact{
+        background-color: rgb(104, 199, 183);
+        padding-bottom: 120px !important;
+    }
+    .google-map{
+        display: block;
+        margin: 0px auto;
+    }
+    header{
+        background-color: #3e3a3a;
+        padding: 10px 0px;
+    }
+.left a{
+    font-size: 20px;
+    margin-right: 10px;
+    color: white;
+}
+.left span{
+    color: white;
+}
+
+.right ul{
+    text-align: right;
+
+} 
+.right ul li{
+list-style: none;
+display: inline-block;
+}   
+.right ul li a{
+    font-size: 10px;
+    width: 20px;
+    height: 20px;
+    border: 1px solid white;
+    padding: 10px;
+   
+    color: white;
+    border-radius: 50%;
+  
+    text-align: center;
+    
+}
